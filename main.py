@@ -2,7 +2,7 @@ import time
 import numpy as np
 import cv2
 
-from ar_powered_design.objects.cuboid import Cuboid
+from ar_powered_design.cuboid import Cuboid
 from ar_powered_design.physics import PhysicsEngine
 from ar_powered_design.gestures import GestureRecognizer
 from ar_powered_design.hand_tracker import HandTracker
